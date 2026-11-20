@@ -8,17 +8,9 @@ import logging
 import os
 import sys
 
-import requests
-
 from .config import Config, KYIV_TZ, is_scheduled_kyiv_run_due
 from .formatter import build_digest_messages
 from .models import NewsItem
-from .notifier import send_telegram_messages
-from .sources import (
-    fetch_google_news,
-    fetch_kspu_news,
-    fetch_telegram_channel_news,
-)
 from .state import StateStore
 
 logger = logging.getLogger("ksu_news_monitor")
@@ -33,6 +25,15 @@ def _configure_logging() -> None:
 
 def run_monitor(config: Config, *, now_utc: datetime | None = None) -> int:
     """Execute one monitoring cycle and return process exit code."""
+    import requests
+
+    from .notifier import send_telegram_messages
+    from .sources import (
+        fetch_google_news,
+        fetch_kspu_news,
+        fetch_telegram_channel_news,
+    )
+
     ref = now_utc or datetime.now(timezone.utc)
     if ref.tzinfo is None:
         ref = ref.replace(tzinfo=timezone.utc)
