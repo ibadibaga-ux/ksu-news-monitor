@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-20T01:53:18.045298+00:00",
-  "last_digest_kyiv_date": "2026-11-20",
+  "last_run_at": "2026-11-21T15:29:09.940053+00:00",
+  "last_digest_kyiv_date": "2026-11-21",
   "seen": {
     "kspu:25721": {
       "source": "kspu",
@@ -65,6 +65,13 @@
       "url": "https://kspu.edu/PublisherReader?newsId=25693",
       "published_at": "2026-11-17T06:41:45+00:00",
       "first_seen_at": "2026-11-20T01:53:18.045298+00:00"
+    },
+    "kspu:25726": {
+      "source": "kspu",
+      "title": "Професор ХДУ опанував сучасні методики розроблення та експертизи завдань ЄФВВ",
+      "url": "https://kspu.edu/PublisherReader?newsId=25726",
+      "published_at": "2026-11-20T10:54:16+00:00",
+      "first_seen_at": "2026-11-21T15:29:09.940053+00:00"
     }
   }
 }
