@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-22T15:30:07.148196+00:00",
-  "last_digest_kyiv_date": "2026-11-21",
+  "last_run_at": "2026-11-23T19:24:07.805932+00:00",
+  "last_digest_kyiv_date": "2026-11-23",
   "seen": {
     "kspu:25721": {
       "source": "kspu",
@@ -72,6 +72,34 @@
       "url": "https://kspu.edu/PublisherReader?newsId=25726",
       "published_at": "2026-11-20T10:54:16+00:00",
       "first_seen_at": "2026-11-21T15:29:09.940053+00:00"
+    },
+    "kspu:25732": {
+      "source": "kspu",
+      "title": "Перший проректор ХДУ долучився до обговорення європейських практик розвитку освіти в громадах",
+      "url": "https://kspu.edu/PublisherReader?newsId=25732",
+      "published_at": "2026-11-23T17:08:45+00:00",
+      "first_seen_at": "2026-11-23T19:24:07.805932+00:00"
+    },
+    "kspu:25731": {
+      "source": "kspu",
+      "title": "У ХДУ відбулося засідання ректорату",
+      "url": "https://kspu.edu/PublisherReader?newsId=25731",
+      "published_at": "2026-11-23T16:22:24+00:00",
+      "first_seen_at": "2026-11-23T19:24:07.805932+00:00"
+    },
+    "kspu:25730": {
+      "source": "kspu",
+      "title": "Команда ХДУ завершила перший модуль програми професійного розвитку академічних менеджерів",
+      "url": "https://kspu.edu/PublisherReader?newsId=25730",
+      "published_at": "2026-11-23T15:23:06+00:00",
+      "first_seen_at": "2026-11-23T19:24:07.805932+00:00"
+    },
+    "kspu:25729": {
+      "source": "kspu",
+      "title": "Випускник ХДУ розповів у Європарламенті про становище дітей прифронтового Херсона",
+      "url": "https://kspu.edu/PublisherReader?newsId=25729",
+      "published_at": "2026-11-23T08:37:43+00:00",
+      "first_seen_at": "2026-11-23T19:24:07.805932+00:00"
     }
   }
 }
