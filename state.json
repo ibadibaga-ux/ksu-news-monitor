@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-23T19:24:07.805932+00:00",
-  "last_digest_kyiv_date": "2026-11-23",
+  "last_run_at": "2026-11-24T18:59:34.574406+00:00",
+  "last_digest_kyiv_date": "2026-11-24",
   "seen": {
     "kspu:25721": {
       "source": "kspu",
@@ -100,6 +100,13 @@
       "url": "https://kspu.edu/PublisherReader?newsId=25729",
       "published_at": "2026-11-23T08:37:43+00:00",
       "first_seen_at": "2026-11-23T19:24:07.805932+00:00"
+    },
+    "kspu:25735": {
+      "source": "kspu",
+      "title": "Проректорка ХДУ виступила експерткою на міжнародному науково-експертному семінарі у Франції",
+      "url": "https://kspu.edu/PublisherReader?newsId=25735",
+      "published_at": "2026-11-24T15:00:45+00:00",
+      "first_seen_at": "2026-11-24T18:59:34.574406+00:00"
     }
   }
 }
