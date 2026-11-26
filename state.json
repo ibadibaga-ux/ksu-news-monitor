@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-25T18:04:34.694800+00:00",
-  "last_digest_kyiv_date": "2026-11-25",
+  "last_run_at": "2026-11-26T17:50:07.685366+00:00",
+  "last_digest_kyiv_date": "2026-11-26",
   "seen": {
     "kspu:25721": {
       "source": "kspu",
@@ -114,6 +114,27 @@
       "url": "https://kspu.edu/PublisherReader?newsId=25739",
       "published_at": "2026-11-25T11:02:17+00:00",
       "first_seen_at": "2026-11-25T18:04:34.694800+00:00"
+    },
+    "kspu:25743": {
+      "source": "kspu",
+      "title": "Штучний інтелект і педагог майбутнього: у ХДУ відбулася всеукраїнська науково-практична конференція",
+      "url": "https://kspu.edu/PublisherReader?newsId=25743",
+      "published_at": "2026-11-26T15:38:51+00:00",
+      "first_seen_at": "2026-11-26T17:50:07.685366+00:00"
+    },
+    "kspu:25742": {
+      "source": "kspu",
+      "title": "У ХДУ відбулася всеукраїнська конференція про підготовку майбутніх учителів в умовах цифровізації освіти",
+      "url": "https://kspu.edu/PublisherReader?newsId=25742",
+      "published_at": "2026-11-26T13:36:09+00:00",
+      "first_seen_at": "2026-11-26T17:50:07.685366+00:00"
+    },
+    "kspu:25740": {
+      "source": "kspu",
+      "title": "Члена наглядової ради ХДУ, ректора КНУБА, обрано головою спілки ректорів",
+      "url": "https://kspu.edu/PublisherReader?newsId=25740",
+      "published_at": "2026-11-26T08:31:20+00:00",
+      "first_seen_at": "2026-11-26T17:50:07.685366+00:00"
     }
   }
 }
