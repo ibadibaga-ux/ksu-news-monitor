@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-26T17:50:07.685366+00:00",
-  "last_digest_kyiv_date": "2026-11-26",
+  "last_run_at": "2026-11-27T17:34:10.984788+00:00",
+  "last_digest_kyiv_date": "2026-11-27",
   "seen": {
     "kspu:25721": {
       "source": "kspu",
@@ -135,6 +135,20 @@
       "url": "https://kspu.edu/PublisherReader?newsId=25740",
       "published_at": "2026-11-26T08:31:20+00:00",
       "first_seen_at": "2026-11-26T17:50:07.685366+00:00"
+    },
+    "kspu:887e57f34d41": {
+      "source": "kspu",
+      "title": "Здобувачка ХДУ представляє Україну на міжнародній зустрічі з питань екстреної медичної допомоги у Польщі",
+      "url": "https://kspu.edu/news/25748-zdobuvachka-khdu-predstavliaie-ukrainu-na-mizhnarodnii-zustrichi-z-pytan",
+      "published_at": "2026-11-27T12:40:35+00:00",
+      "first_seen_at": "2026-11-27T17:34:10.984788+00:00"
+    },
+    "kspu:417cb9ae5617": {
+      "source": "kspu",
+      "title": "Історикиня ХДУ прочитає лекцію про Голодомор 1932–1933 років у міжнародному вимірі",
+      "url": "https://kspu.edu/news/25747-istorykynia-khdu-prochytaie-lektsiiu-pro-holodomor-1932-1933-rokiv-u",
+      "published_at": "2026-11-27T08:44:50+00:00",
+      "first_seen_at": "2026-11-27T17:34:10.984788+00:00"
     }
   }
 }
