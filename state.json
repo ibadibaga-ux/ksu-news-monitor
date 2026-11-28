@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-27T17:34:10.984788+00:00",
-  "last_digest_kyiv_date": "2026-11-27",
+  "last_run_at": "2026-11-28T16:19:01.146138+00:00",
+  "last_digest_kyiv_date": "2026-11-28",
   "seen": {
     "kspu:25721": {
       "source": "kspu",
@@ -149,6 +149,13 @@
       "url": "https://kspu.edu/news/25747-istorykynia-khdu-prochytaie-lektsiiu-pro-holodomor-1932-1933-rokiv-u",
       "published_at": "2026-11-27T08:44:50+00:00",
       "first_seen_at": "2026-11-27T17:34:10.984788+00:00"
+    },
+    "kspu:920f84dc6e90": {
+      "source": "kspu",
+      "title": "«Голодомор 1932–1933 років у європейській дипломатії»: у ХДУ відбулася публічна лекція",
+      "url": "https://kspu.edu/news/25751-holodomor-1932-1933-rokiv-u-yevropeiskii-dyplomatii-u-khdu-vidbulasia-publichna",
+      "published_at": "2026-11-28T14:56:47+00:00",
+      "first_seen_at": "2026-11-28T16:19:01.146138+00:00"
     }
   }
 }
